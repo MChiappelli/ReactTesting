@@ -21,7 +21,7 @@ App.js			(counter-app > src)
 This is the brain of the application. This calls on the counters.jsx file.
 
 counters.jsx	(counter-app > src > components)
-This basically does generates the navbar and controls the state of the counters.
+This basically generates the navbar and controls the state of the counters.
 This file calls on the counter.jsx file to generate the counter mechanisms.
 
 counter.jsx 	(counter-app > src > components)
